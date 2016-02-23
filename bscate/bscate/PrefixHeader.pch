@@ -1,0 +1,29 @@
+//
+//  PrefixHeader.pch
+//  ZuiXinQQCeHuaXiaoGuo
+//
+//  Created by 叶新 on 16/2/17.
+//  Copyright © 2016年 yexin. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+#import "SecondeViewController.h"
+#import "ThirdViewController.h"
+#import "ViewController.h"
+#import "AppDelegate.h"
+#import "MyHeader.h"
+#import "CreateUIController.h"
+#import "News_ViewController.h"
+#import "FourViewController.h"
+#import "SixthVIewController.h"
+#import "PreViewConroller.h"
+#import "FifthViewController.h"
+#import "News_DetailViewController.h"
+#import "SHCZMainView.h"
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#endif /* PrefixHeader_pch */
